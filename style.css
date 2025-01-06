@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.container{
+    height: 70vh;
+
+}
+.game-container{
+    height: 60vmin;
+}
