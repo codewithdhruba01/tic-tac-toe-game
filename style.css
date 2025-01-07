@@ -4,13 +4,66 @@
 }
 
 body{
-    background-color: aqua;
+    background-color: #3A3960;
     text-align: center;
 }
 .container{
     height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 
+}
+h2{
+    color: aliceblue;
 }
 .game-container{
     height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 5vmin;
+    border: none;
+    box-shadow: 0 0 0.5rem rgba(0,0,0,0.4);
+    font-size: 9vmin;
+    color: #3A3960;
+}
+#reset-btn{
+    padding: 1rem;
+    font-size: 2rem;
+    background-color: #000;
+    border-radius: 1.5rem;
+    border: none;
+    color: #F5F7F8;
+}
+#new-btn{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #000;
+    border-radius: 1rem;
+    border: none;
+    color: #F5F7F8;
+    
+}
+
+/* massage section */
+#msg{
+    color: #F5F7F8;
+    font-size: 7vmin;
+    height: 10vmin;
+}
+
+.msg-container{
+    height: 25vmin;
+}
+.hide{
+    display: none;
 }
