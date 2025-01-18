@@ -1,11 +1,11 @@
 # Tic Tac Toe Game
 
-## Description
+## Description-
 This project is a visually appealing and interactive **Tic Tac Toe Game** built using HTML, CSS, and JavaScript. It provides a two-player mode where players take turns as "X" and "O." The game is simple yet functional, with dynamic updates to the game board, winner detection, and the ability to reset or restart the game easily.
 
 ---
 
-## Features
+## Features-
 - **Two-Player Gameplay**: Players alternate turns as "X" and "O."
 - **Winner Detection**: Automatically checks predefined patterns to determine the winner.
 - **Dynamic Messaging**: Displays a congratulatory message for the winner or allows for a new game.
@@ -15,14 +15,14 @@ This project is a visually appealing and interactive **Tic Tac Toe Game** built 
 
 ---
 
-## Technologies Used
+## Technologies Used-
 - **HTML**: Provides the structure for the game layout.
 - **CSS**: Adds styles, responsive design, and animations to enhance the visual appeal.
 - **JavaScript**: Implements game logic, turn tracking, and winner detection dynamically.
 
 ---
 
-## How to Run the Project
+## How to Run the Project-
 1. Clone or download the repository from GitHub.
 2. Ensure the following files are in the same directory:
    - `index.html`
@@ -33,7 +33,7 @@ This project is a visually appealing and interactive **Tic Tac Toe Game** built 
 
 ---
 
-## Code Overview
+## Code Overview-
 1. **HTML**
    - Defines the structure of the game board with a 3x3 grid.
    - Includes buttons for resetting and starting the game.
