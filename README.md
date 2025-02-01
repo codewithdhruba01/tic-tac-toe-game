@@ -18,7 +18,7 @@ This project is a visually appealing and interactive **Tic Tac Toe Game** built 
 ## Technologies Used-
 - **HTML**: Provides the structure for the game layout.
 - **CSS**: Adds styles, responsive design, and animations to enhance the visual appeal.
-- **JavaScript**: Implements game logic, turn tracking, and winner detection dynamically.
+- **JavaScript**: Implements game logic, turn tracking, and winner detection  dynamically.
 
 ---
 
